@@ -89,10 +89,6 @@
   # };
 
   programs.niri.enable = true;
-  programs.firefox.enable = true;
-  services.xserver.enable = true;
-  services.xserver.displayManager.gdm.enable = true;
-  services.xserver.desktopManager.gnome.enable = true;
 
   # List services that you want to enable:
 
